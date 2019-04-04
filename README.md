@@ -1,6 +1,6 @@
-# HhtScatteringPy
+# ScatteringHhtPy
 
-HhtScatteringPy is a tool based on the Hilbert-Huang transform to identify scattering noise in LIGO. The main function is located in the _CheckScatCorr.py_ file and the list of channels in the file named _Channel_List.txt_.
+ScatteringHhtPy is a tool based on the Hilbert-Huang transform to identify scattering noise in LIGO. The main function is located in the _CheckScatCorr.py_ file and the list of channels in the file named _Channel_List.txt_.
 
 It needs two input variables:
 * `observatory` that can be `L1` or `H1` 
